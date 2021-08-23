@@ -17,8 +17,8 @@ Day&Night Cycle YES
 Bugs YES
 
 Game doesn't feature:
-Forest NO
-Storyline NO
-Drivable NO
+Forest 
+Storyline 
+Drivable Cars
 
 These will be featured in next update
