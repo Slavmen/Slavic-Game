@@ -7,23 +7,23 @@ In case of copyright issues contact me via discord shown above
 Game features:
 
 
-Flashlight
+**Flashlight**
 
-Guns
+**Guns**
 
-Hardbass
+**Hardbass**
 
-Russian Houses
+**Russian Houses**
 
-Toilet
+**Toilet**
 
-Intro
+**Intro**
 
-Car
+**Car**
 
-Day&Night Cycle
+**Day&Night Cycle**
 
-Bugs
+**Bugs**
 
 
 
