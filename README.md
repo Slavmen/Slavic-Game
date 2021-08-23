@@ -24,7 +24,7 @@ Bugs🪲
 Forest🌲🌲🌲
 Drivable Cars🚗🚗🚗
 Storyline📜📜📜
-NPC's👨‍👨‍👨‍👦👨‍👨‍👦
+NPC's👨‍👨‍👦👨‍👨‍👦👨‍👨‍👦
 
 And other features if requested or some ideas will hit my mind
 ```
