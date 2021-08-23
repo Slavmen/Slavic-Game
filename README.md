@@ -14,7 +14,6 @@ Russian Houses🏘️
 Toilet🚽
 Intro📺
 Car🚗
-Day&Night Cycle☀️🌙
 Bugs🪲
 ```
 
@@ -22,6 +21,7 @@ Bugs🪲
 *These will be featured in next or later updates:*
 ```
 Forest🌲🌲🌲
+Day&Night Cycle☀️🌙
 Drivable Cars🚗🚗🚗
 Storyline📜📜📜
 NPC's👨‍👨‍👦👨‍👨‍👦👨‍👨‍👦
