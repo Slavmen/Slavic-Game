@@ -12,7 +12,7 @@ Guns🔫
 Hardbass🤙
 Russian Houses🏘️
 Toilet🚽
-Intro*📺
+Intro📺
 Car🚗
 Day&Night Cycle☀️🌙
 Bugs🪲
