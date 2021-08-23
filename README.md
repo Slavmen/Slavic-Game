@@ -7,7 +7,7 @@ In case of copyright issues contact me via discord shown above
 ```
 Game features:
 
-Flashligh🔦
+Flashlight🔦
 Guns🔫
 Hardbass🤙
 Russian Houses🏘️
