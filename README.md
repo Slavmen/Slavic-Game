@@ -5,7 +5,7 @@ You can leave yours by creating issue or contacting me via discord: TheBlaster13
 In case of copyright issues contact me via discord shown above
 
 
-Game features:
+***Game features:***
 
 
 **Flashlight**🔦
@@ -31,12 +31,12 @@ Game features:
 *These will be featured in next or later updates:*
 
 
-Forest🌲🌲🌲
+*Forest*🌲🌲🌲
 
-Drivable Cars🚗🚗🚗
+*Drivable Cars*🚗🚗🚗
 
-Storyline📜📜📜
+*Storyline*📜📜📜
 
-NPC's👨‍👨‍👦👨‍👨‍👦👨‍👨‍👦
+*NPC's*👦👨‍👨‍👦👨‍👨‍👦
 
 And other features if requested or some ideas will hit my mind
