@@ -28,3 +28,12 @@ NPC's👨‍👨‍👦👨‍👨‍👦👨‍👨‍👦
 
 And other features if requested or some ideas will hit my mind
 ```
+
+Controls
+```
+W/A/S/D - WALK (duh)
+
+F - Very bright flashlight
+
+Scroll wheel or 1-8 - Very dangerous guns 
+```
