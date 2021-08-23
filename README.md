@@ -40,5 +40,3 @@ F - Very bright flashlight
 
 Scroll wheel or 1-8 - Very dangerous guns 
 ```
-
-Download: https://theblaster1337mods.itch.io/slavic-game
