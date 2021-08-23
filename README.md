@@ -6,19 +6,20 @@ In case of copyright issues contact me via discord shown above
 
 Game features:
 
-Flashlight YES
-Guns YES
-Hardbass YES
-Russian houses YES
-Toilet YES
-Intro YES
-Car YES
-Day&Night Cycle YES
-Bugs YES
+Flashlight
+Guns
+Hardbass
+Russian Houses
+Toilet
+Intro
+Car
+Day&Night Cycle
+Bugs
 
-Game doesn't feature:
-Forest 
-Storyline 
+These will be featured in next or later updates:
+
+Forest
 Drivable Cars
-
-These will be featured in next update
+Storyline
+NPC's
+And other features if requested or some ideas will hit my mind
