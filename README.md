@@ -7,35 +7,35 @@ In case of copyright issues contact me via discord shown above
 Game features:
 
 
-**Flashlight**
+**Flashlight**🔦
 
-**Guns**
+**Guns**🔫
 
-**Hardbass**
+**Hardbass**🤙
 
-**Russian Houses**
+**Russian Houses**🏘️
 
-**Toilet**
+**Toilet**🚽
 
-**Intro**
+**Intro**📺
 
-**Car**
+**Car**🚗
 
-**Day&Night Cycle**
+**Day&Night Cycle**☀️🌙
 
-**Bugs**
+**Bugs**🪲
 
 
 
 These will be featured in next or later updates:
 
 
-Forest
+Forest🌲🌲🌲
 
-Drivable Cars
+Drivable Cars🚗🚗🚗
 
-Storyline
+Storyline📜📜📜
 
-NPC's
+NPC's👨‍👨‍👦👨‍👨‍👦👨‍👨‍👦
 
 And other features if requested or some ideas will hit my mind
