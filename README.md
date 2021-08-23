@@ -21,7 +21,7 @@ Bugs🪲
 
 *These will be featured in next or later updates:*
 ```
-Forest*🌲🌲🌲
+Forest🌲🌲🌲
 Drivable Cars🚗🚗🚗
 Storyline📜📜📜
 NPC's👨‍👨‍👨‍👦👨‍👨‍👦
