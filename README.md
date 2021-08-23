@@ -4,6 +4,9 @@
 - You can leave yours by creating issue or contacting me via discord: TheBlaster1337#1337
 - In case of copyright issues contact me via discord shown above
 
+
+Download: https://theblaster1337mods.itch.io/slavic-game
+
 ```
 Game features:
 
@@ -37,3 +40,5 @@ F - Very bright flashlight
 
 Scroll wheel or 1-8 - Very dangerous guns 
 ```
+
+Download: https://theblaster1337mods.itch.io/slavic-game
